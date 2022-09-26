@@ -175,7 +175,7 @@ if($_POST["status"] == 'roll'){
             <div class="col-md-5">
                 <video src="/assets/video/video_atributos.webm" preload="none" width="500" height="500" playsinline autoplay muted loop class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto">
 
-            </div>
+             </div>
         </div>
         <hr class="featurette-divider">
     </div>
